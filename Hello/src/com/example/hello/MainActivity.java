@@ -20,7 +20,8 @@ public class MainActivity extends Activity {
         return true;
     }
     @Override
-    public void finish() {
-    	super.finish();
+    protected void onResume() {
+    	// TODO Auto-generated method stub
+    	super.onResume();
     }
 }
