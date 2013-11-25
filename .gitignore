@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 .DS_Store
 metadata*
+=======
+.metadata*
+.DS_Store
+jarlist.cache
+>>>>>>> f48427489b6d6d8ab923705b993cf7af8a2d5dec
