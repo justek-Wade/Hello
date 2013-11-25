@@ -19,13 +19,6 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-<<<<<<< HEAD
-    //
-=======
-    @Override
-    protected void onResume() {
-    	// TODO Auto-generated method stub
-    	super.onResume();
-    }
->>>>>>> f48427489b6d6d8ab923705b993cf7af8a2d5dec
+    
+    
 }
