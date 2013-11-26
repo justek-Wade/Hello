@@ -25,9 +25,9 @@ public class MainActivity extends Activity {
     @Override
     protected void onResume() {
     	// TODO Auto-generated method stub
-    	//wade
     	//
-    	System.out.println("wade");
+    	//
+    	System.out.println("nnn");
     	super.onResume();
     }
     
