@@ -28,9 +28,10 @@ public class MainActivity extends Activity {
     	System.out.println("wade");
     	super.onResume();
     }
-    
-    //Wadeadd
+    //wade
     //eclipse 2
     //lala
+
+    
     
 }
