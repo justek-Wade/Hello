@@ -27,7 +27,9 @@ public class MainActivity extends Activity {
     	// TODO Auto-generated method stub
     	//
     	//
-    	System.out.println("nnn");
+
+    	System.out.println("wade");
+       //github.com/justek-Wade/Hello.git
     	super.onResume();
     }
     
