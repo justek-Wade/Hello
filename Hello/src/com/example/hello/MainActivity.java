@@ -25,13 +25,10 @@ public class MainActivity extends Activity {
     @Override
     protected void onResume() {
     	// TODO Auto-generated method stub
+    	//
+    	//
     	System.out.println("wade");
     	super.onResume();
     }
-    //wade
-    //eclipse 2
-    //lala
-
-    
     
 }
