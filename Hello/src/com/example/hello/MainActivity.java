@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
     	super.onResume();
     }
     
-    //wade
+    //Wadeadd
     //eclipse 2
     //lala
     
