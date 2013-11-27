@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
     protected void onResume() {
     	// TODO Auto-generated method stub
     	//
-    	//Wade add a line
+    	//Wade add a line2
 
     	System.out.println("wade");
        //github.com/justek-Wade/Hello.git
